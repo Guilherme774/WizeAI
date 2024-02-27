@@ -35,5 +35,5 @@ I performed the entire development flow, from the entity diagrams to the code it
 ## Installation and Usage:
 
 1. Clone this repository
-2. Open the /video-maker-ts folder
+2. Open the /wizeai/client folder
 3. Open "index.html" file
