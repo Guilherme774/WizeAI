@@ -7,9 +7,6 @@ A Image Generator AI APP
 > Current Working: Turning into an api⚠️
 <br>
 
-
-<- Gif Here ->
-
 <br>
 
 ## About
