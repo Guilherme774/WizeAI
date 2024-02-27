@@ -1,0 +1,2 @@
+# WizeAI
+Image generator AI
