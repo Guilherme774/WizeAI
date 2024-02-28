@@ -2,9 +2,9 @@
 A Image Generator AI APP
 
 
-> Project Status: Under development ⚠️
+> Project Status: Done ✅
 > <br>
-> Current Working: Turning into an api⚠️
+> Current Working: Done ✅
 <br>
 
 <br>
@@ -23,10 +23,9 @@ I performed the entire development flow, from the entity diagrams to the code it
 
 <table>
   <tr>
+    <td>HTML</td>
+    <td>CSS</td>
     <td>Javascript</td>
-  </tr>
-  <tr>
-    <td>Newest version</td>
   </tr>
 <table>
 
